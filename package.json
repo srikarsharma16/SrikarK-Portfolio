@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikarsharma16/SrikarK-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikarsharma16/SrikarK-Portfolio/issues"
+  },
+  "homepage": "https://github.com/srikarsharma16/SrikarK-Portfolio#readme",
+  "description": ""
 }
